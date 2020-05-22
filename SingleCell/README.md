@@ -1,6 +1,6 @@
 # Single Cell Project Plans
 
-Long term	:	Web server to help analyze single cell data from .fastq files
+Long term	:	Web server to help analyze single cell data from .fastq files       
 Short term	: 	Docker image that can be pulled for analysis on local machines
 
 ## Workflow
